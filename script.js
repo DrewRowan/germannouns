@@ -8,6 +8,7 @@ let currentNoun;
 function init() {
     currentNoun = nouns[Math.floor(Math.random()*nouns.length)];
     document.getElementById("title-noun").innerHTML = currentNoun.singular.noun;
+    document.getElementById("translation-noun").innerHTML = "(" + currentNoun.english + ")";
     attachEventListeners();
 }
 
