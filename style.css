@@ -1,3 +1,23 @@
 .btn-answer {
     margin: 0 2px;
 }
+
+/* Default font size for all devices */
+table {
+    font-size: 0.5em;
+    table-layout: fixed;width: 100%;
+  }
+  
+  /* Increase font size for larger screens */
+  @media screen and (min-width: 768px) {
+    table {
+      font-size: 0.75em;
+    }
+  }
+  
+  /* Increase font size even more for even larger screens */
+  @media screen and (min-width: 1024px) {
+    table {
+      font-size: 1em;
+    }
+  }
