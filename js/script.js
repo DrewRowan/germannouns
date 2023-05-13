@@ -1,4 +1,4 @@
-import data from './noun.json' assert { type: 'json' };
+import data from '../json/noun.json' assert { type: 'json' };
 
 const nouns = data.nouns;
 const answerButtons = document.querySelectorAll('.btn-answer');

@@ -1,0 +1,46 @@
+{
+    "nominative": {
+      "ich": "I",
+      "du": "you (singular informal)",
+      "er": "he",
+      "sie": "she",
+      "es": "it",
+      "wir": "we",
+      "ihr": "you (plural informal)",
+      "sie": "they",
+      "Sie": "you (singular or plural formal)"
+    },
+    "accusative": {
+      "mich": "me",
+      "dich": "you (singular informal)",
+      "ihn": "him",
+      "sie": "her",
+      "es": "it",
+      "uns": "us",
+      "euch": "you (plural informal)",
+      "sie": "them",
+      "Sie": "you (singular or plural formal)"
+    },
+    "dative": {
+      "mir": "to me",
+      "dir": "to you (singular informal)",
+      "ihm": "to him",
+      "ihr": "to her",
+      "ihm": "to it",
+      "uns": "to us",
+      "euch": "to you (plural informal)",
+      "ihnen": "to them",
+      "Ihnen": "to you (singular or plural formal)"
+    },
+    "genitive": {
+      "mein": "mine",
+      "dein": "yours (singular informal)",
+      "sein": "his",
+      "ihr": "hers",
+      "sein": "its",
+      "unser": "ours",
+      "euer": "yours (plural informal)",
+      "ihr": "theirs",
+      "Ihr": "yours (singular or plural formal)"
+    }
+  }

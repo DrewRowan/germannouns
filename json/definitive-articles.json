@@ -1,0 +1,20 @@
+{
+  "masculine": {
+    "nominative": "der",
+    "genitive": "des",
+    "dative": "dem",
+    "accusative": "den"
+  },
+  "feminine": {
+    "nominative": "die",
+    "genitive": "der",
+    "dative": "der",
+    "accusative": "die"
+  },
+  "neuter": {
+    "nominative": "das",
+    "genitive": "des",
+    "dative": "dem",
+    "accusative": "das"
+  }
+}

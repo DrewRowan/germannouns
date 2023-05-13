@@ -1,0 +1,63 @@
+{
+    "accusative": {
+      "durch": "through",
+      "für": "for",
+      "gegen": "against",
+      "ohne": "without",
+      "um": "around, at"
+    },
+    "dative": {
+      "aus": "out of, from",
+      "außer": "except for",
+      "bei": "at, near, with",
+      "mit": "with",
+      "nach": "after, to",
+      "seit": "since",
+      "von": "from",
+      "zu": "to"
+    },
+    "genitive": {
+      "statt": "instead of",
+      "trotz": "in spite of",
+      "während": "during",
+      "wegen": "because of"
+    },
+    "changing": {
+      "an": {
+        "accusative": "on",
+        "dative": "at, to"
+      },
+      "auf": {
+        "accusative": "onto, upon",
+        "dative": "on, onto"
+      },
+      "hinter": {
+        "accusative": "behind",
+        "dative": "behind"
+      },
+      "in": {
+        "accusative": "into",
+        "dative": "in, at"
+      },
+      "neben": {
+        "accusative": "next to, beside",
+        "dative": "next to, beside"
+      },
+      "über": {
+        "accusative": "over",
+        "dative": "over"
+      },
+      "unter": {
+        "accusative": "under",
+        "dative": "under"
+      },
+      "vor": {
+        "accusative": "in front of",
+        "dative": "in front of"
+      },
+      "zwischen": {
+        "accusative": "between",
+        "dative": "between"
+      }
+    }
+  }
