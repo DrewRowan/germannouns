@@ -19,6 +19,7 @@ function attachEventListeners() {
             var correct = currentNoun.singular.article;
             if (answer == correct) {
                 this.classList.add("btn-success");
+                document.getElementById("translation-noun").style.display = 'block';
                 setTimeout(() => {
                     window.location.reload();
                   }, "1000");
